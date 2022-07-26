@@ -5,10 +5,10 @@ A Wordpress Plugin which helps developer to show the current template that is cu
 ## Usage Features:
 ```
 current loaded template
-.complete path of template
-.Total published pages
-.Active theme name
-.Current php version
+complete path of template
+Total published pages
+Active theme name
+Current php version
 ```
 ```
 This plugin is free to use/edit. Do whatever you want to do with it.
